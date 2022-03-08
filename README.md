@@ -1,10 +1,23 @@
-<h1 align="center">Hello, I'm Eric</h1>
-<h3 align="center">A passionate android developer from South Korea</h3>
+<h1 align="left">Hi there, my name is Eric Kim 👋</h1>
+<h4 align="left">This is where I try new things and share it with the world</h4>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/bitflyp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="example" height="30" width="40" /></a>
-</p>
+***
+<h5 align="left">Currently...</h5>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🌱 I’m currently learning **how to build an app**
+
+- 🤝 I’m looking for help with **android development**
+
+- 👨‍💻 I'm the owner of **Castle Delta**
+ 
+***
+
+<h5 align="left">My most proudest creations are...</h5>
+
+- 📌 **Castle Delta:** Student-run group for android development
+
+- 📌 **Counting Days:** Anniversary calender application
+
+- 📌 **PLACEHOLDER_NAME:** For when I have time to add more.
+  
+***

@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **android development**
 
-- 👨‍💻 I'm the owner of **Castle Delta**
+- 👨‍💻 I organize a study group called **Castle Delta**
  
 ***
 

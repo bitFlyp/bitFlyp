@@ -7,6 +7,7 @@
 - 📚 I’m currently learning **Android SDK Fundamentals**
 
 - 🤔 I’m looking for help with **android development**
+- My favorite search engine is [**Duck Duck Go**](https://duckduckgo.com)
 
 - 👨‍💻 I organize a study group called **Castle Delta**
  
@@ -14,10 +15,10 @@
 
 <h5 align="left">My most proudest creations are...</h5>
 
-- 📌 **Castle Delta:** Student-run group for android development
+- 📌 [**Castle Delta:**](https://github.com/Castle-Delta) Student-run group for android development
 
-- 📌 **Counting Days:** Anniversary calender application
+- 📌 [**Counting Days:**](https://www.youtube.com/watch?v=viF7DZj9VJ4) Anniversary calender application
 
-- 📌 **PLACEHOLDER_NAME:** For when I have time to add more.
+- 📌 [**PLACEHOLDER_NAME:**](https://www.youtube.com/watch?v=viF7DZj9VJ4) For when I have time to add more.
   
 ***

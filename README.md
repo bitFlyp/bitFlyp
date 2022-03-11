@@ -7,7 +7,6 @@
 - 📚 I’m currently learning **Android SDK Fundamentals**
 
 - 🤔 I’m looking for help with **android development**
-- My favorite search engine is [**Duck Duck Go**](https://duckduckgo.com)
 
 - 👨‍💻 I organize a study group called **Castle Delta**
  

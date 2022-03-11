@@ -4,9 +4,9 @@
 ***
 <h5 align="left">Currently...</h5>
 
-- 🌱 I’m currently learning **how to build an app**
+- 📚 I’m currently learning **Android SDK Fundamentals**
 
-- 🤝 I’m looking for help with **android development**
+- 🤔 I’m looking for help with **android development**
 
 - 👨‍💻 I organize a study group called **Castle Delta**
  

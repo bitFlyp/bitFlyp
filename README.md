@@ -6,9 +6,9 @@
 ***
 <h5 align="left">Currently...</h5>
 
-- 📚 I’m currently learning **Android SDK Fundamentals**
+- 📚 I’m currently learning how to use **Figma and Bravo Studio**
 
-- 🤔 I’m looking for help with **android development**
+- 🤔 I’m looking for help with **Android SDK Fundamentals**
 
 - 👨‍💻 I organize a study group called **Castle Delta**
  

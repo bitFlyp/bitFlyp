@@ -1,5 +1,3 @@
-<p align="center"><img src="https://thumbs.gfycat.com/UnfoldedRedJaguarundi-max-1mb.gif" alt="example" height="470" width="1280" /></a>
-
 <h1 align="left">Hi there, my name is Eric Kim 👋</h1>
 <h4 align="left">This is where I try new things and share it with the world<h4>
 

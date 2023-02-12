@@ -1,29 +1,29 @@
-<h1 align="left">Hi there, my name is Eric Kim 👋</h1>
-<h4 align="left">This is where I try new things and share it with the world<h4>
+# ✈️ Eric Kim
 
-***
-<h5 align="left">Currently...</h5>
+**`Nomadic Programmer (Developer/Artist)`**
 
-- 📚 I’m currently learning how to use **Figma and Bravo Studio**
+I am a student at The University of Texas in San Antonio. I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world. Not only did I learn new languages and concepts, I learned how to communicate with people, share ideas, and to cooperate. With graduation expected soon, I aspire to contribute to the world by solving real-life problems with code.
 
-- 🤔 I’m looking for help with **Android SDK Fundamentals**
+---
 
-- 👨‍💻 I organize a study group called **Castle Delta**
- 
-***
+### 🧰 Languages and Tools
 
-<h5 align="left">My most proudest creations are...</h5>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<br />
 
-- 📌 [**Castle Delta:**](https://github.com/Castle-Delta) Student-run group for android development
+---
 
-- 📌 [**Counting Days:**](https://www.youtube.com/watch?v=viF7DZj9VJ4) Anniversary calender application
+### 🛠️ Personal Projects
+- [**project_01:**](https://www.youtube.com/watch?v=viF7DZj9VJ4) description of project 1
 
-- 📌 [**PLACEHOLDER_NAME:**](https://www.youtube.com/watch?v=viF7DZj9VJ4) For when I have time to add more.
-  
-***
+- [**project_02:**](https://www.youtube.com/watch?v=viF7DZj9VJ4) description of project 2
 
-<h6 align="center">Feel free to follow me on</h6>
-<p align="center">
-<a href="https://linkedin.com/in/example" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="example" height="30" width="40" /></a>
-<a href="https://instagram.com/bitflyp" target="blank"><img align="center" src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/7bed8410dd7d25f.png" alt="bitflyp" height="40" width="40" /></a>
-</p>
+- [**project_03:**](https://www.youtube.com/watch?v=viF7DZj9VJ4) description of project 3

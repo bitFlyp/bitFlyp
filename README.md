@@ -1,8 +1,8 @@
-# ✈️ Eric Kim
+# 😎 Eric Kim
 
-**`A Programmer (Developer/Artist)`**
+**`Android Developer (Developer/Artist)`**
 
-I am a student at The University of Texas in San Antonio. I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world. Not only did I learn new languages and concepts, I learned how to communicate with people, share ideas, and to cooperate. With graduation expected soon, I aspire to contribute to the world by solving real-life problems with code.
+I am a student at The University of Texas at San Antonio. I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world. Not only did I learn new languages and concepts, I learned how to communicate with people, share ideas, and to cooperate. With graduation expected soon, I aspire to contribute to the world by solving real-life problems with code.
 
 ---
 
